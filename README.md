@@ -21,7 +21,7 @@ I'm an enthusiastic Computer Engineer passionate about transforming ideas into i
 - 📜 Here my Resume: 
 - 📫 Reach out to me at: <a href="---">dianagsisiruca@gmail.com</a>
 
-<h2>👀 My github Stats</h2>
+<h2>👀 My GitHub Stats</h2>
 
 <div>
   <p align="center">

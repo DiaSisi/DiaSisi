@@ -5,11 +5,11 @@
   </a>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Teddy" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am graduate in Computer Engineering. C, C++, HTML, CSS, JS, PHP are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I'm an enthusiastic Computer Engineer passionate about transforming ideas into innovative solutions. Proficient in C, C++, HTML, CSS, JS, PHP, and always eager to explore new technologies to create impactful projects!
 
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
@@ -29,7 +29,7 @@ I am graduate in Computer Engineering. C, C++, HTML, CSS, JS, PHP are the progra
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiaSisi" alt="GitHub Stats" /> <br/><br/>
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=DiaSisi&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiaSisi&layout=compact)
+<img alt="My github status" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=DiaSisi&show_icons=true&include_all_commits=true"/>
+<img alt="Top Langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiaSisi&layout=compact"/>
 
 ---------------------------------------------------------------------------------------------------------------------

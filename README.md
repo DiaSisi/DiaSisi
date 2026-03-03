@@ -18,7 +18,7 @@ I'm an enthusiastic Computer Engineer passionate about transforming ideas into i
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help!😉<br>
 - Outside tech, 📖 I love to read, 🏊‍♀️ swimming, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📜 Here my Portfolio: https://diasisi.netlify.app
+- 📜 Here my Portfolio: https://diasisi.github.io/portfolio-diasisi/
 - 📫 Reach out to me at: <a href="---">diasisi.dev@gmail.com</a>
 
 <h2>👀 My GitHub Stats</h2>
